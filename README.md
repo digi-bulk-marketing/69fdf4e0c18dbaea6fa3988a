@@ -1,9 +1,14 @@
 # Best Sender
 
-- Rebranding ID: 69fdf4e0c18dbaea6fa3988a
-- User ID: 69fdf45ac18dbaea6fa39086
-- App name: Best Sender
-- Product name: Button Sender
+Best Sender by Vivid Brandify.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/2a7df02d-3e6e-400d-a759-85cbb7d9ef6d.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/2a7df02d-3e6e-400d-a759-85cbb7d9ef6d.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/69fdf4e0c18dbaea6fa3988a/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Best Sender** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/69fdf4e0c18dbaea6fa3988a/releases/latest) and reinstall.
